@@ -1,5 +1,12 @@
 <h2 align="center">✨Olá, seja bem-vindo(a) ao meu GitHub!✨</h2>
 
+- 🏫 Cursando Análise e Desenvolvimento de Sistemas 
+- 🌎 Desbravando o mundo do Front-end
+- 🌱 Atualmente estudando HTML e CSS 
+- ⚡ Fun fact: Adoro o mundo dos games, animes etc.
+
+##
+
 <div align="center"><br>
   
   <a href="https://github.com/lucianaTSoares">
@@ -13,18 +20,10 @@
   
   <a href="https://github.com/lucianaTSoares">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" height="46" width="65" align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" alt="C#" height="51" width="65" align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" height="46" width="65" align="center">
   </a>
   
 </div>
-
-##
-
-- 🏫 Cursando Análise e Desenvolvimento de Sistemas 
-- 🌎 Desbravando o mundo do Front-end
-- 🌱 Atualmente estudando HTML e CSS
-- ⚡ Fun fact: Adoro o mundo dos games, animes etc.
 
 ##
 
