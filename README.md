@@ -4,6 +4,7 @@
 - 🌎 Desbravando o mundo do Front-end
 - 🌱 Atualmente estudando HTML e CSS 
 - ⚡ Fun fact: Adoro o mundo dos games, animes etc.
+- ❤ Disposta a ajudar o próximo com os conhecimentos que possuo.
 
 ##
 
