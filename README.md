@@ -2,7 +2,7 @@
 
 - 🏫 Cursando Análise e Desenvolvimento de Sistemas 
 - 🌎 Desbravando o mundo do Front-end
-- 🌱 Atualmente estudando HTML e CSS 
+- 🌱 Atualmente estudando CSS, JavaScript e Java
 - ⚡ Fun fact: Adoro o mundo dos games, animes etc.
 - ❤ Disposta a ajudar o próximo com os conhecimentos que possuo
 
@@ -22,6 +22,7 @@
   <a href="https://github.com/lucianaTSoares">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" height="46" width="65" align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" height="46" width="65" align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Javascript" height="46" width="65" align="center">
   </a>
   
 </div>
