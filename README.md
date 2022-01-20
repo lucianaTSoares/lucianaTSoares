@@ -1,8 +1,8 @@
 <h2 align="center">✨Olá, seja bem-vindo(a) ao meu GitHub!✨</h2>
 
 - 🏫 Cursando Análise e Desenvolvimento de Sistemas 
-- 🌎 Desbravando o mundo do Front-end
-- 🌱 Atualmente estudando CSS, JavaScript e Java
+- 🌎 Desbravando o mundo do Front e Back end
+- 🌱 Atualmente estudando Java
 - ⚡ Fun fact: Adoro o mundo dos games, animes etc.
 - ❤ Disposta a ajudar o próximo com os conhecimentos que possuo
 
