@@ -1,8 +1,8 @@
 <h2 align="center">✨Olá, seja bem-vindo(a) ao meu GitHub!✨</h2>
 
-- 🏫 Cursando Análise e Desenvolvimento de Sistemas 
+- 🏫 Formada em Análise e Desenvolvimento de Sistemas 
 - 🌎 Desbravando o mundo do Front e Back end
-- 🌱 Atualmente estudando Java
+- 🌱 Atualmente realizando bootcamp para formação como Dev Java Jr Full-Stack
 - ⚡ Fun fact: Adoro o mundo dos games, animes etc.
 - ❤ Disposta a ajudar o próximo com os conhecimentos que possuo
 
