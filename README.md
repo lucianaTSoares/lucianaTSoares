@@ -11,8 +11,8 @@
 <div align="center"><br>
   
   <a href="https://github.com/lucianaTSoares">
-    <img src="https://github-readme-stats.vercel.app/api?username=lucianaTSoares&show_icons=true&theme=midnight-purple&hide_border=true&locale=pt-br&hide_title=true" alt="EstatGitHub">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianaTSoares&layout=compact&langs_count=10&theme=midnight-purple&hide_border=true&locale=pt-br" alt="LingUsadas">
+    <img src="https://github-readme-stats.vercel.app/api?username=lucianaTSoares&show_icons=true&theme=omni&hide_border=true&locale=pt-br&hide_title=true" alt="EstatGitHub" height="150">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianaTSoares&layout=compact&langs_count=10&theme=omni&hide_border=true&locale=pt-br" alt="LingUsadas" height="150">
   </a>
 
 </div>
