@@ -2,7 +2,7 @@
 
 - 🏫 Formada em Análise e Desenvolvimento de Sistemas 
 - 🌎 Desbravando o mundo do Front e Back end
-- 🌱 Atualmente realizando bootcamp para formação como Dev Java Jr Full-Stack
+- 🌱 Atualmente realizando bootcamp da Generation para formação como Dev Java Jr Full-Stack
 - ⚡ Fun fact: Adoro o mundo dos games, animes etc.
 - ❤ Disposta a ajudar o próximo com os conhecimentos que possuo
 
