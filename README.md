@@ -2,7 +2,7 @@
 
 - 🏫 Formada em Análise e Desenvolvimento de Sistemas e como Desenvolvedora Web Java Jr. Full Stack
 - 🌎 Desbravando o mundo do Front e Back-end
-- 🌱 Atualmente à prcura de oportunidades na área de desenvolvimento
+- 🌱 Atualmente a procura de oportunidades na área de desenvolvimento
 - ⚡ Fun fact: Adoro o mundo dos games, animes etc.
 - ❤ Disposta a ajudar o próximo com os conhecimentos que possuo
 
