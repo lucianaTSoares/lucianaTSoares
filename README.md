@@ -1,7 +1,7 @@
 <h2 align="center">✨Olá, seja bem-vindo(a) ao meu GitHub!✨</h2>
 
 - 🏫 Formada em Análise e Desenvolvimento de Sistemas e como Desenvolvedora Web Java Jr. Full Stack
-- 🌎 Desbravando o mundo do Front e Back-end
+- 💼 Trabalhando como Desenvolvedora Web Jr. na 6place
 - 🌱 Atualmente estudando React e Node.js
 - ⚡ Fun fact: Adoro o mundo dos games, animes etc.
 - ❤ Disposta a ajudar o próximo com os conhecimentos que possuo
