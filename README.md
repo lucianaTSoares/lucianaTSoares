@@ -1,9 +1,5 @@
 <h2 align="center">✨Olá, seja bem-vindo(a) ao meu GitHub!✨</h2>
 
-  <span>
-    <img src="https://media1.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif?cid=ecf05e47ybtdacg698qi13se8wg0143cd9208geeuq6ul8kz&rid=giphy.gif" width="20%" align="right"/>
-  </span>
-
 - 🏫 Formada em Análise e Desenvolvimento de Sistemas e como Desenvolvedora Web Java Jr. Full Stack
 - 💼 Trabalhando como Desenvolvedora Web Jr. na 6place
 - 🌱 Atualmente estudando React e Node.js
@@ -55,6 +51,10 @@
 ##
 
 <div>
+
+   <span>
+    <img src="https://media1.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif?cid=ecf05e47ybtdacg698qi13se8wg0143cd9208geeuq6ul8kz&rid=giphy.gif" width="20%" align="right"/>
+  </span>
   
   <h3>📞 Contato</h3>
   
