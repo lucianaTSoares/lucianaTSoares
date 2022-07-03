@@ -52,7 +52,7 @@
 
 <div>
 
-   <span>
+  <span>
     <img src="https://media1.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif?cid=ecf05e47ybtdacg698qi13se8wg0143cd9208geeuq6ul8kz&rid=giphy.gif" width="20%" align="right"/>
   </span>
   
@@ -60,6 +60,10 @@
   
   <a href="https://www.linkedin.com/in/lucianatsoares/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="center">
+  </a>
+    
+  <a href="https://discordapp.com/users/302215961736380427/" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" align="center">
   </a>
   
   <a href="mailto:lucianat.s@hotmail.com" target="_blank">
