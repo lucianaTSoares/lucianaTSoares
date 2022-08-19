@@ -1,25 +1,24 @@
-<h2 align="center">✨Olá, seja bem-vindo(a) ao meu GitHub!✨</h2>
+<h2 align="center">✨Hi, welcome to my GitHub!✨</h2>
 
-- 🏫 Formada em Análise e Desenvolvimento de Sistemas e como Desenvolvedora Web Java Jr. Full Stack
-- 💼 Trabalhando como Desenvolvedora Web Jr. na 6place
-- 🌱 Atualmente estudando React e Node.js
-- ⚡ Fun fact: Adoro o mundo dos games, animes etc.
-- ❤ Disposta a ajudar o próximo com os conhecimentos que possuo
-
+- 🏫 Graduated at System Analysis and Development and as a Full Stack Web Developer at Generation Brasil.
+- 💼 Working as a Full Stack Web Developer at 6place.
+- 🌱 Studying JavaScript stack (at moment React and Node.js)
+- ⚡ Fun fact: I also like games, animes and love cats 🐱.
+- ❤ Willing to help people with my knowledges.
 ##
 
 <div align="center"><br>
   
   <a href="https://github.com/lucianaTSoares">
-    <img src="https://github-readme-stats.vercel.app/api?username=lucianaTSoares&show_icons=true&theme=omni&hide_border=true&locale=pt-br&hide_title=true" alt="EstatGitHub" height="150">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianaTSoares&layout=compact&hide=c&langs_count=10&theme=omni&hide_border=true&locale=pt-br" alt="LingUsadas" height="150">
+    <img src="https://github-readme-stats.vercel.app/api?username=lucianaTSoares&show_icons=true&theme=omni&hide_border=true&hide_title=true" alt="profile status" height="150">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianaTSoares&layout=compact&hide=c&langs_count=10&theme=omni&hide_border=true" alt="most used languages" height="150">
   </a>
 
 </div>
 
 <div align="center">
 
-### Principais tecnologias
+### Main technologies
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Javascript" height="40" width="55" align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="Typescript" height="40" width="55" align="center">  
@@ -35,7 +34,7 @@
 
 <div align="center"><br>
 
-### Outras tecnologias
+### Other technologies
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="40" width="55" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" height="40" width="55" align="center">
@@ -56,7 +55,7 @@
     <img src="https://media1.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif?cid=ecf05e47ybtdacg698qi13se8wg0143cd9208geeuq6ul8kz&rid=giphy.gif" width="20%" align="right"/>
   </span>
   
-  <h3>📞 Contato</h3>
+  <h3>📞 Contact</h3>
   
   <a href="https://www.linkedin.com/in/lucianatsoares/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="center">
