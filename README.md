@@ -3,8 +3,10 @@
 - 🏫 Graduated at System Analysis and Development and as a Full Stack Web Developer at Generation Brasil.
 - 💼 Working as a Full Stack Web Developer at 6place.
 - 🌱 Studying JavaScript stack (at moment React and Node.js)
+- 💬 Ask me about: **HTML**, **CSS**, **JavaScript**, **React**.
 - ⚡ Fun fact: I also like games, animes and love cats 🐱.
 - ❤ Willing to help people with my knowledges.
+
 ##
 
 <div align="center"><br>
