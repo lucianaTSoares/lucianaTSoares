@@ -12,7 +12,6 @@
 <div align="center"><br>
   
   <a href="https://github.com/lucianaTSoares">
-    <img src="https://github-readme-stats.vercel.app/api?username=lucianaTSoares&show_icons=true&theme=omni&hide_border=true&hide_title=true" alt="profile status" height="150">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianaTSoares&layout=compact&hide=c&langs_count=10&theme=omni&hide_border=true" alt="most used languages" height="150">
   </a>
 
