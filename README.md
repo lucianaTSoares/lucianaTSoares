@@ -20,8 +20,6 @@
 </div>
 <br>
 
-## My tools
-
 ### 💻 Languages
 
 <p align="left"> 
