@@ -20,7 +20,7 @@
 </div>
 <br>
 
-### 💻 Languages
+### 💻 Techs
 
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"></a>
@@ -28,45 +28,20 @@
   <a href="#" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white"></a>
-</p>
-
-### 📚 Frameworks & Libraries
-
-- #### Back-end<p align="left"> 
   <a href="https://nodejs.org/en" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white"></a>
   <a href="https://expressjs.com/" target="_blank"><img alt="Express" src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB"></a>
   <a href="https://www.prisma.io/" target="_blank"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-01354D?style=flat&logo=Prisma&logoColor=white"></a>
   <a href="https://spring.io/projects/spring-boot/" target="_blank"><img alt="SpringBoot" src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white"></a>
-</p>
-
-- #### Front-end<p align="left"> 
   <a href="https://legacy.reactjs.org/" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"></a>
   <a href="https://nextjs.org/" target="_blank"><img alt="Next" src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white"></a>
   <a href="https://styled-components.com/" target="_blank"><img alt="Styled components" src="https://img.shields.io/badge/Styled--components-DB7093?style=flat&logo=styled-components&logoColor=white"></a>
   <a href="https://angular.io/" target="_blank"><img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white"></a>
   <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white"></a>
-</p>
-
-- #### Mobile<p align="left"> 
   <a href="https://flutter.dev/" target="_blank"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white"></a>
-</p>
-
-### 🧪 Testing
-
-<p align="left"> 
   <a href="https://robotframework.org/" target="_blank"><img alt="Robot Framework" src="https://img.shields.io/badge/-Robot_Framework-009A91?style=flat&logo=robot-framework&logoColor=white"></a>
   <a href="https://jestjs.io/" target="_blank"><img alt="Jest" src="https://img.shields.io/badge/-Jest-%23C21325?style=flat&logo=jest&logoColor=white"></a>
-</p>
-
-### 🗃️ Database
-
-<p align="left">
   <a href="https://www.postgresql.org" target="_blank"><img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white"></a>
   <a href="https://www.mysql.com" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?flat&logo=mysql&logoColor=white"></a>
-</p>
-
-### ⚙️ Others
-<p align="left"> 
   <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white"></a>
   <a href="https://github.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white"></a>
   <a href="https://azure.microsoft.com/en-us/products/devops/" target="_blank"><img alt="Azure Devops" src="https://img.shields.io/badge/Azure_DevOps-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white"></a>
@@ -74,7 +49,6 @@
   <a href="https://www.postman.com" target="_blank"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"></a>
   <a href="https://azure.microsoft.com/en-us/free/" target="_blank"><img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white"></a>
 </p>
-<br>
 
 ## 🌟 Most Used Languages
 
