@@ -11,9 +11,9 @@
   <img src="https://media1.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif?cid=ecf05e47ybtdacg698qi13se8wg0143cd9208geeuq6ul8kz&rid=giphy.gif" width="10%" align="right"/>
   <ul>
     <li>🏫 <strong>Graduated</strong> at System Analysis and Development</li>
-    <li>💼 <strong>Working</strong> as a Full Stack Web Developer at 6place</li>
-    <li>🌱 <strong>Learning</strong> about Automated Tests with Robot Framework</li>
-    <li>🚩 <strong>Interested</strong> in Cloud services (AWS, Azure), Mobile development and tests</li>
+    <li>💼 <strong>Working</strong> as a Full Stack Developer at F1RST Sntander</li>
+    <li>🌱 <strong>Learning</strong> about Java & Spring and Python</li>
+    <li>🚩 <strong>Interested</strong> in Cloud services (AWS, Azure)</li>
     <li>🎨 <strong>Hobbies:</strong> I like games and love cats 🐱</li>
     <li>❤ <strong>Willing to</strong> help people with my knowledge</li>
   </ul>
